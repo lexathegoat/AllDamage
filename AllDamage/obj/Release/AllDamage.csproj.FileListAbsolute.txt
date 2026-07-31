@@ -1,0 +1,11 @@
+C:\Users\onurs\OneDrive\Masaüstü\AllDamage\AllDamage\bin\Release\AllDamage.dll
+C:\Users\onurs\OneDrive\Masaüstü\AllDamage\AllDamage\bin\Release\AllDamage.pdb
+C:\Users\onurs\OneDrive\Masaüstü\AllDamage\AllDamage\bin\Release\LemonUI.SHVDN3.dll
+C:\Users\onurs\OneDrive\Masaüstü\AllDamage\AllDamage\bin\Release\ScriptHookVDotNet3.dll
+C:\Users\onurs\OneDrive\Masaüstü\AllDamage\AllDamage\bin\Release\LemonUI.SHVDN3.xml
+C:\Users\onurs\OneDrive\Masaüstü\AllDamage\AllDamage\bin\Release\ScriptHookVDotNet3.xml
+C:\Users\onurs\OneDrive\Masaüstü\AllDamage\AllDamage\obj\Release\AllDamage.csproj.AssemblyReference.cache
+C:\Users\onurs\OneDrive\Masaüstü\AllDamage\AllDamage\obj\Release\AllDamage.csproj.CoreCompileInputs.cache
+C:\Users\onurs\OneDrive\Masaüstü\AllDamage\AllDamage\obj\Release\AllDamage.csproj.Up2Date
+C:\Users\onurs\OneDrive\Masaüstü\AllDamage\AllDamage\obj\Release\AllDamage.dll
+C:\Users\onurs\OneDrive\Masaüstü\AllDamage\AllDamage\obj\Release\AllDamage.pdb
